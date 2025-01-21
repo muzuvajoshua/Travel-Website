@@ -10,7 +10,7 @@ const Guide = () => {
           We are here for you
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px] text-white">A Guide to Your Easy Path</h2>
+          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">A Guide to Your Easy Path</h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">With the HiLink application, getting lost is a thing of the past! Our offline maps ensure you stay on track even when there's no internet connection in the great outdoors.
 
 Invite your friends, family, and loved ones to embark on exciting adventures through valleys, across wilderness trails, and all the way to the mountain summit. HiLink makes every journey unforgettable!</p>

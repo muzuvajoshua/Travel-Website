@@ -15,7 +15,7 @@ const Hero = () => {
           height={50}
           className="absolute top-[-30px] left-[-5px]  w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88 text-white">Gerenge Focus Camp Site</h1>
+        <h1 className="bold-52 lg:bold-88">Gerenge Focus Camp Site</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
         Escape the hustle and bustle of city life and immerse yourself in the serene beauty of Gerenge Camp Site. 
         Nestled near the tranquil shores of a picturesque lake, this hidden gem offers the perfect retreat for nature lovers and peace seekers. 
